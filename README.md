@@ -55,11 +55,13 @@ About Me
 
 
 
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/unthicha09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
+
+
+### 📈 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unthicha09&bg_color=000000&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true"/>
 
