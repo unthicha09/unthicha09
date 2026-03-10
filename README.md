@@ -67,4 +67,3 @@ src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-th
 
 
 
-![snake](https://github.com/unthicha09/unthicha09/blob/output/github-snake.svg)
