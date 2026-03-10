@@ -63,7 +63,5 @@ src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-th
 
 
 
-### 📈 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unthicha09&bg_color=000000&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true"/>
 
 
