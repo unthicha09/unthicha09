@@ -52,12 +52,18 @@ About Me
 <p align="left"> <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/unthicha09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/unthicha09"><img src="https://github-readme-stats.vercel.app/api?username=unthicha09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="unthicha09's GitHub stats" /></a>
+## 📊 My GitHub Stats
 
-<a href="http://www.github.com/unthicha09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=unthicha09&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unthicha09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
-<a href="https://github.com/unthicha09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=unthicha09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
