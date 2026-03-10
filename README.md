@@ -53,9 +53,3 @@ About Me
 <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=unthicha09&theme=tokyonight&hide_border=true" />
-</p>
