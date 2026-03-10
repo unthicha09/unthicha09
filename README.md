@@ -57,13 +57,5 @@ src="https://img.shields.io/github/followers/unthicha09?logo=github&style=for-th
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unthicha09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=unthicha09&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
