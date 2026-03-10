@@ -1,4 +1,4 @@
-<img width="389" height="690" alt="image" src="https://github.com/user-attachments/assets/835b842e-202f-452f-9ed5-028d13758820" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is UNTHICHA YODYA
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is UNTHICHA YODYA
 =======================================================================================================================================
 
 About Me
