@@ -9,12 +9,11 @@
 
 
 ## About Me
+--------
 * 🌍  I'm based in Phayao, Thailand
 * ✉️  You can contact me at [preechayodya@gmail.com](mailto:preechayodya@gmail.com)
-* 🧠  I'm currently learning **Business Analyst**, **Project Coordinator**
-* 👥  I'm looking to collaborate on **Business Analyst**, **Project Coordinator**
-
----
+* 🧠  I'm currently learning Business Analyst, Project Coordinator
+* 👥  I'm looking to collaborate on Business Analyst, Project Coordinator
 
 ## 💻 Skills
 
@@ -43,23 +42,12 @@
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL"/></a>
 </p>
 
----
-
 ### Socials
 <p align="left">
-  <a href="https://www.github.com/unthicha09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.gitlab.com/unthicha09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
-  </a>
+<a href="https://www.github.com/unthicha09" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.gitlab.com/unthicha09" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" /></a>
 </p>
 
 ### Badges
 <p align="left">
-<a href="https://github.com/unthicha09">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<a href="https://github.com/unthicha09"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
-
-
