@@ -38,7 +38,3 @@
 ### Badges
 <a href="https://github.com/unthicha09"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-### Badges
-<p align="left">
-<a href="https://github.com/unthicha09"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthicha09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-</p>
