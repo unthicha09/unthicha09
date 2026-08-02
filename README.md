@@ -12,8 +12,8 @@
 --------
 * 🌍  I'm based in Phayao, Thailand
 * ✉️  You can contact me at [preechayodya@gmail.com](mailto:preechayodya@gmail.com)
-* 🧠  I'm currently learning Business Analyst, Project Coordinator
-* 👥  I'm looking to collaborate on Business Analyst, Project Coordinator
+* 🧠  I'm currently learning Business Analyst, Project Coordinator , UX/UI Design
+* 👥  I'm looking to collaborate on Business Analyst, Project Coordinator ,UX/UI Designer
 
 ## 💻 Skills
 
